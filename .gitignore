@@ -3,3 +3,6 @@
 
 //for all same type of extension files
 *.log
+
+//for ignoring folders or add folders to gitignore
+dir/
