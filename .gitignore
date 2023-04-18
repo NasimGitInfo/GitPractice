@@ -5,7 +5,7 @@
 *.log
 
 //for ignoring folders or add folders to gitignore
-//dir/
+dir/
 
 //for ignoring only the Outer Dir folder 
-/dir/ 
+//  /dir/ 
