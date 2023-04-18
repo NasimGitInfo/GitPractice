@@ -1,1 +1,5 @@
-error.log
+//for a particular file we write like this only
+//error.log
+
+//for all same type of extension files
+*.log
